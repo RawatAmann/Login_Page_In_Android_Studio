@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "68216905567",
+    "firebase_url": "https://signupandlogin-af019-default-rtdb.firebaseio.com",
+    "project_id": "signupandlogin-af019",
+    "storage_bucket": "signupandlogin-af019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68216905567:android:6a749d535a0fc0383160ea",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgA2odi-3I9vCP7YE0H-eW5kVu5crkmEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
